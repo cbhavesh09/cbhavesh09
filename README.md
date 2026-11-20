@@ -8,7 +8,7 @@
 
 <h1 align="center">Hello , I'm Bhavesh </h1>
 <h3 align="center">Engineering Intelligence, One Commit at a Time.</h3>
-<img src="https://github.com/user-attachments/assets/0417f212-2876-4750-9214-c7bfa70709a3" alt = "Background with Mountains" width = "300px" align = "right" height = "400px"/> 
+<img src="https://github.com/user-attachments/assets/0417f212-2876-4750-9214-c7bfa70709a3" alt = "profile image" width = "250px" align = "right" height = "350px"/> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cbhavesh09&label=Profile%20views&color=0e75b6&style=flat" alt="cbhavesh09" /> </p>
 
